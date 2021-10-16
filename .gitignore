@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Personal files
+credentials.json
+token.json
+token_gmail_v1.pickle
