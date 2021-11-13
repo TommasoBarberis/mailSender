@@ -2,7 +2,7 @@ Short python script that can be used in a bash script in order to be notfied whe
 Command line exemple:
 
 ```
-python3 sender.py msg_text receiver subject
+python3 sender.py subject receiver msg_text
 ```
 
 * subject: [string] it will be the subject of the mail
